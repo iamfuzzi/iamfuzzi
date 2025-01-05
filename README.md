@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iamfuzzi
+- 🌱 I’m currently learning Java
+- ⚡ Fun fact: пипохуй
