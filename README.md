@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @iamfuzzi
-- 🌱 I’m currently learning Java
-- ⚡ Fun fact: пипохуй
+```java
+public class IAmFuzzi {
+  public static void main(String[] args) {
+    System.out.println("Пипохуй");
+  }
+}
+```
