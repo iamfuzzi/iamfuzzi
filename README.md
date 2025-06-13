@@ -6,4 +6,4 @@ public class IAmFuzzi {
 }
 ```
 
-![otag](https://cdn.7tv.app/emote/01GYT25QT8000DVPJKHH13026T/4x.png)
+![otag](c.png)
