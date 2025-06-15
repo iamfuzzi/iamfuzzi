@@ -6,6 +6,5 @@ public class IAmFuzzi {
 }
 ```
 
-![Java](java.png)
-![C](c.png)
-<img src="c.png" width="200" alt="Описание изображения">
+<img src="java.png" width="50" alt="Java">
+<img src="c.png" width="50" alt="C">
