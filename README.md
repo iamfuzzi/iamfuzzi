@@ -6,5 +6,4 @@ public class IAmFuzzi {
 }
 ```
 
-<img src="java.png" width="50" alt="Java">
-<img src="c.png" width="50" alt="C">
+<img src="java.png" width="50" alt="Java"><img src="c.png" width="50" alt="C">
