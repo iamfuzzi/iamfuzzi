@@ -8,3 +8,4 @@ public class IAmFuzzi {
 
 ![Java](java.png)
 ![C](c.png)
+<img src="c.png" width="200" alt="Описание изображения">
