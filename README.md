@@ -6,4 +6,5 @@ public class IAmFuzzi {
 }
 ```
 
-![otag](c.png)
+![Java](java.png)
+![C](c.png)
